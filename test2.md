@@ -34,3 +34,4 @@ Attributes come before the attribute or method<br>
     Superclass <|-- Subclass1 : Superclass Subclass relation
     Superclass <|-- Subclass2
 ```
+based on https://mermaid-js.github.io/mermaid/#/
